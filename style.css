@@ -2799,7 +2799,7 @@ textarea:invalid {
       content: "";
       background: #100DD1;
       background: -webkit-linear-gradient(to left, #100DD1, #0d3bd1);
-      background: linear-gradient(to left, #100DD1, #0d3bd1);
+      background: linear-gradient(to left, #007bff, rgba(0,123,255,.25));
       z-index: -10;
       border-radius: 0.75rem;
       opacity: .75; }
