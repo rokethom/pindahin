@@ -2804,19 +2804,19 @@ textarea:invalid {
       border-radius: 0.75rem;
       opacity: .75; }
 
-.cta-area-dua {
+.area-dua {
   position: relative;
   z-index: 2; }
-  .cta-area-dua .cta-text {
+  .area-dua .cta-text {
     position: relative;
     z-index: 1;
     border-radius: 0.75rem;
     background-size: cover;
     background-position: center top; }
-    .cta-area-dua .cta-text p,
-    .cta-area-dua .cta-text h4 {
+    .area-dua .cta-text p,
+    .area-dua .cta-text h4 {
       color: #ffffff; }
-    .cta-area-dua .cta-text::after {
+    .area-dua .cta-text::after {
       width: 100%;
       height: 100%;
       top: 0;
